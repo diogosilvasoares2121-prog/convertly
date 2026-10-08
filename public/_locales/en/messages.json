@@ -1,0 +1,5 @@
+{
+  "extName": { "message": "Convertly — Private File Converter", "description": "Extension name shown in Chrome and the Web Store." },
+  "extDescription": { "message": "Convert, compress and edit images, PDFs, video, audio and archives directly in Chrome. Files never leave your device.", "description": "Short description (max 132 characters)." },
+  "actionTitle": { "message": "Convertly — private file toolbox", "description": "Toolbar button tooltip." }
+}

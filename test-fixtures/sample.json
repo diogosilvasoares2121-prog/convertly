@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "name": "Ana",
+    "city": "Lisboa",
+    "tags": [
+      "a",
+      "b"
+    ],
+    "meta": {
+      "active": true,
+      "score": 9.5
+    }
+  },
+  {
+    "id": 2,
+    "name": "Rui, Jr.",
+    "city": "Porto",
+    "tags": [],
+    "meta": {
+      "active": false,
+      "score": 7
+    }
+  },
+  {
+    "id": 12345678901234567000,
+    "name": "Big \"Number\"",
+    "city": "Faro",
+    "note": "line1\nline2"
+  }
+]

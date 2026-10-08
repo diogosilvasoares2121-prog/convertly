@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80">
+  <rect width="120" height="80" rx="10" fill="#10a393"/>
+  <circle cx="40" cy="40" r="22" fill="#ffffff"/>
+  <path d="M70 22h32v8H70zM70 36h24v8H70zM70 50h28v8H70z" fill="#ffffff"/>
+  <script>window.__svgScriptRan = true;</script>
+  <image href="https://example.com/remote.png" width="1" height="1"/>
+</svg>

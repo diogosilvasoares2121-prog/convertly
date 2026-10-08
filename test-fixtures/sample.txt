@@ -1,0 +1,5 @@
+Convertly — text fixture
+Ação, coração, façade, naïve: accented Western European text.
+
+This paragraph is long enough to wrap across several lines in the generated PDF so the word-wrapping code is exercised properly by the end-to-end test suite, which checks the page count and the text layer.
+Line with a CJK character that the standard PDF fonts cannot draw: 日本
