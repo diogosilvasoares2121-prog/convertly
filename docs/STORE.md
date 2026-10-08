@@ -84,7 +84,10 @@ libheif, libarchive, PDF.js decoders).
 - Personally identifiable information, health, financial, authentication, personal
   communications, location, web history, user activity, website content: **not collected**.
 - Certify: data is not sold, not used for unrelated purposes, not used for creditworthiness.
-- Privacy policy URL: publish `docs/PRIVACY.md` (e.g. GitHub Pages) and link it.
+- Privacy policy URL: https://diogosilvasoares2121-prog.github.io/convertly/privacy.html
+  (GitHub Pages, served from `docs/privacy.html` on `main`).
+- Homepage URL: https://diogosilvasoares2121-prog.github.io/convertly/
+- Support URL: https://github.com/diogosilvasoares2121-prog/convertly/issues
 
 ## Assets
 
